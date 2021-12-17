@@ -1,0 +1,21 @@
+R 1920  1080
+
+
+NO ./textures/xpm/colorstone.xpm
+SO ./textures/xpm/greystone.xpm
+EA ./textures/xpm/purplestone.xpm
+WE ./textures/xpm/bluestone.xpm
+S ./textures/xpm/barrel.xpm
+
+
+C 1,130,233
+F 255,70,50
+
+
+11111111111111
+12000000021011
+11111111111111
+10110S00011001
+11111111111111
+10000000021001
+11111111111111
